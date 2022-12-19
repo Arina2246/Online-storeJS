@@ -1,0 +1,32 @@
+.range-filter{
+    background-color: #e6e6e6;
+    border-radius: 20px;
+    padding: 20px 20px;
+    display: inline-block;
+    height: 220px;
+    margin: 5px 5px;
+    flex-grow: 1;
+}
+.range-filter p{
+    margin: 15px 0;
+}
+.range-filter h3{
+    margin-bottom: 15px;
+}
+#count-range-filter,
+#year-range-filter{
+    display: inline-block;
+    margin: 5px 15px;
+    width: 200px;
+}
+.count-filter-input,
+.year-filter-input{
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    margin: 5px 10px;
+    width: 45px;
+    padding: 5px 0;
+    display: inline-block;
+}
+

@@ -1,0 +1,11 @@
+select {
+    padding: 5px 35px 5px 5px;
+    border: 1px solid #CCC;
+    appearance: none;
+    background: #EEE;
+    width: 200px;
+}
+#sorting{
+    display: block;
+    margin: 10px 0px;
+}

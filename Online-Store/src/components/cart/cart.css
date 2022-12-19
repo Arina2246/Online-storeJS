@@ -1,0 +1,6 @@
+.activeCart{
+    background-color: #DCDCDC;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 5px;
+    transition: 0.3s;
+}

@@ -1,0 +1,27 @@
+.filters-by-value{
+    background-color: #e6e6e6;
+    border-radius: 20px;
+    padding: 20px 20px;
+    display: inline-block;
+    height: 220px;
+    margin: 5px 5px;
+    flex-grow: 1;
+}
+button{
+    border: none;
+    margin: 15px 5px;
+    padding: 5px 5px;
+    border-radius: 20px;
+}
+button:hover{
+    cursor: pointer;
+}
+button:active{
+    background-color: white;
+}
+.active-filter-value{
+    background-color: white;;
+}
+.inactive-card{
+    display: none;
+}
